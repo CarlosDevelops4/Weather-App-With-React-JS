@@ -2,4 +2,4 @@
 
 - Stateless functional components in React js
 - Openweathermap api to render the conditions of supplied countries/cities.
-- Will need Openweathermap API
+- Will need your own Openweathermap API
